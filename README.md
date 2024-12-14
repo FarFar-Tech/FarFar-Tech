@@ -3,8 +3,9 @@
 - 🌱 I’m currently doing my PhD in Information Communication System (ICT). 
 - 💞️ I’m looking to collaborate on projects focused on remote sensing. 
 - 📫 How to reach me: farfar@utu.fi
-- 😄 Fun fact 1: The Eiffel Tower gets taller in the summer. 
-- ⚡ Fun fact 2: Headphones can increase the bacteria in your ears. 
+- 😄 Coding fact 1: NASA still uses 1970s Programs in Their Spacecraft.
+- ⚡ Coding fact 2: The First Computer “Bug” Was a Real Bug.
+
 
 <---
 FarFar-Tech is supposed to be a ✨ special ✨ repository for students 
