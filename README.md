@@ -27,7 +27,7 @@ Machine Learning, Deep Learning, Computer Vision, and Remote Sensing.
 
 <img width="918" alt="IMG_0141" src="https://github.com/user-attachments/assets/a1eb43cc-b0c4-4922-b3ed-bb8ee07707fd" />
 
-3. **Deep Learning (DL) algorithms ->** Artificial Neural Network (ANN), Multi-Layer Perceptron (MLP), and Convolutional Neural Network (CNN).
+3. **Deep Learning (DL) algorithms ->** Artificial Neural Network (ANN), Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), Transfer Learning (VGG and ResNet), Autoencoders, Transformer Networks, Generative Adversarial Networks (GANs).
 
 ![IMG_0140](https://github.com/user-attachments/assets/7907a827-8c92-40e4-a754-406fc0b9ab91)
 
