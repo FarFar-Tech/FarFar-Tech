@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @FarFar-Tech
-- 👀 I’m interested in long-walk, video games, tech podcast, and gym. 
-- 🌱 I’m currently doing my PhD in Information Communication System (ICT). 
+- 👀 I’m interested in long-walk, video games, tech podcasts, and gym. 
+- 🌱 I’m doing my PhD in Information Communication Systems (ICT) @ UTU in Finland. 
 - 💞️ I’m looking to collaborate on projects focused on remote sensing. 
 - 📫 How to reach me: farfar@utu.fi
-- ⚡ Coding fact 1: NASA still uses 1970s Programs in Their Spacecraft.
-- 😄 Coding fact 2: The first computer “Bug” was a real bug.
+- ⚡ Coding Fact 1: NASA still uses 1970s Programs in Their Spacecraft.
+- 😄 Coding Fact 2: The first computer “Bug” was a real bug.
 
 
 
@@ -14,13 +14,12 @@ and developers who are interested in learning more about Data Analysis,
 Machine Learning, Deep Learning, Computer Vision, and Remote Sensing.  
 --->
 
-- 👻📊 My articles published in different conferences and journals can be
-  found here: 
+- 👻📊 My articles published in different conferences and journals can be found here: 
   https://scholar.google.com/citations?user=gNB1jdYAAAAJ&hl=en
 
 - What I cover in this repo is as follows:
 
-1. Data analysis and Pre-processing data -> improting libraries, importing datasets, handling missing data points, encoding categorical data, splitting datasets into test set and training set, feature scaling, and outliers deals. Furthemore, you can find codes about some famous and foundational libraries, such as Seaborn, Matplotlib, Pandas, and Numpy.
+1. Data analysis and Pre-processing data -> importing libraries, importing datasets, handling missing data points, encoding categorical data, splitting datasets into test sets and training sets, feature scaling, and outliers deals. Furthermore, you can find codes about some famous and foundational libraries, such as Seaborn, Matplotlib, Pandas, and Numpy.
 
 ![image](https://github.com/user-attachments/assets/f369ea1d-ac34-4b29-99df-cf67f6ae700c)
 
@@ -28,11 +27,11 @@ Machine Learning, Deep Learning, Computer Vision, and Remote Sensing.
 
 <img width="918" alt="IMG_0141" src="https://github.com/user-attachments/assets/a1eb43cc-b0c4-4922-b3ed-bb8ee07707fd" />
 
-3. Deep Learning (DL) algorithms -> Artifical Neural Network (ANN), Multi Layer Perceptron (MLP), Convolutional Neural Network (CNN).
+3. Deep Learning (DL) algorithms: Artificial Neural Network (ANN), Multi-Layer Perceptron (MLP), and Convolutional Neural Network (CNN).
 
 ![IMG_0140](https://github.com/user-attachments/assets/7907a827-8c92-40e4-a754-406fc0b9ab91)
 
-4. Computer Vision -> image processing and feature extractions by OpenCV library. Tasks like image classification, object detection, image segmentation, image captioning are covered.
+4. Computer Vision -> image processing and feature extractions by OpenCV library. Tasks like image classification, object detection, image segmentation, and image captioning are covered.
 
 ![IMG_0138](https://github.com/user-attachments/assets/f25bd83c-7a5c-4eb5-856d-f6a203da56ec)
 ![IMG_0139](https://github.com/user-attachments/assets/528b4c0b-2ea4-4d95-b644-6309688bb7c2)
