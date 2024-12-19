@@ -6,7 +6,8 @@
 - ⚡ Coding Fact 1: NASA still uses 1970s Programs in Their Spacecraft.
 - 😄 Coding Fact 2: The first computer “Bug” was a real bug.
 
-![image](https://github.com/user-attachments/assets/56181560-2ff5-4cc0-b1af-8cff52a7d751)
+![image](https://github.com/user-attachments/assets/17a8a8bb-24db-4965-b79d-4272f3ee3547)
+
 
 
 <---
