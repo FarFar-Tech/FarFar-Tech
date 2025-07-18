@@ -3,7 +3,7 @@
 - 🌱 I’m doing my PhD in Information Communication Systems (ICT) @ UTU in Finland. 
 - 💞️ I’m looking to collaborate on projects focused on remote sensing. 
 - 📫 How to reach me: farfar@utu.fi
-- ⚡ Coding Fact 1: NASA still uses 1970s Programs in Their Spacecraft.
+- ⚡ Coding Fact 1: NASA still uses 1970s C based Programs in Their Spacecraft.
 - 😄 Coding Fact 2: The first computer “Bug” was a real bug.
 
 ![image](https://github.com/user-attachments/assets/17a8a8bb-24db-4965-b79d-4272f3ee3547)
