@@ -32,8 +32,8 @@ I am a passionate data scientist dedicated to turning complex problems into inte
 and developers who are interested in learning more about Data Analysis, 
 Machine Learning, Deep Learning, Computer Vision, and Remote Sensing.  
 
-- 👻📊 My articles published in different conferences and journals can be found here: 
-  https://scholar.google.com/citations?user=gNB1jdYAAAAJ&hl=en
+- 👻📊 My articles published in different conferences and journals can be found [here](https://scholar.google.com/citations?user=gNB1jdYAAAAJ&hl=en) 
+  
 
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farshad-farahnakian-861955194)
