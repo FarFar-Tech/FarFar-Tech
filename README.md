@@ -12,7 +12,7 @@
 
 ## About Me
 
-> **Doctoral researcher at UTU in Finland** | **Remote Sensing Researcher** | **AI Research Enthusiast**
+> **Postdoc researcher at UTU in Finland** | **Senior Remote Sensing Researcher** | **AI Research Enthusiast**
 
 I am a dedicated **Remote Sensing Data Scientist** specializing in leveraging **Artificial Intelligence (AI)** to analyze **Earth Observation (EO)** data. I translate complex problems—from **land cover mapping** to **change detection**—into high-impact, automated solutions. My expertise spans the complete pipeline, from **pre-processing petabytes of satellite imagery** (Optical, SAR, LiDAR) to developing and deploying **deep learning models** for large-scale geospatial analysis.
 
