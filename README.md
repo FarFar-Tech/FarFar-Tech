@@ -1,4 +1,4 @@
-# Farshad Farahnakian | Earth Observation Data Scientist & ML Engineer
+# Farshad Farahnakian | Earth Observation Data Scientist | Remote Sensing | ML Engineer
 
 <div align="center">
 
