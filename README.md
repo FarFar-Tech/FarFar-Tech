@@ -25,7 +25,7 @@ I am a dedicated **Remote Sensing Data Scientist** specializing in leveraging **
 
 ---
 
-![image](https://github.com/user-attachments/assets/17a8a8bb-24db-4965-b79d-4272f3ee3547)
+
 
 
 > FarFar-Tech is supposed to be a ✨ special ✨ repository for students 
