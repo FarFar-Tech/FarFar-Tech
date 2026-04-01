@@ -24,8 +24,12 @@ I am a dedicated **Remote Sensing Data Scientist** specializing in leveraging **
 - **Research-to-Production:** Translating cutting-edge Remote Sensing research into real-world applications.
 
 ---
-
-
+## Projects (Experience)
+- AI-ARC
+- EIS
+- AIMEX
+- MaaTi
+---
 
 
 > FarFar-Tech is supposed to be a ✨ special ✨ repository for students 
