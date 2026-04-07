@@ -46,9 +46,8 @@ I am a dedicated **Remote Sensing Data Scientist** specializing in leveraging **
 ---
 
 ## 🎓​ Education
-- Doctor of Science in Technology - University of Turku (January 2023 - February 2026)
-- Master of Science in Engineering - Tallinn University (August 2019 - February 2022)
-- Bachelor of Science in Electrical Engineering - Azad University (August 2012 - March 2017)
+- Doctor of Science in Technology (Computer Science) - University of Turku (January 2023 - February 2026)
+- Master of Science in Engineering (Human-Computer Interaction) - Tallinn University (August 2019 - February 2022)
   
 ---
 
