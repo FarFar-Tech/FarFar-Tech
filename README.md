@@ -1,5 +1,5 @@
 # 🎩​ Dr. Farshad Farahnakian 
-# GIS Data Scientist | Remote Sensing | Google Earth Engine | Earth Observation | ML Engineer | AI Generative (GeoAI)
+# Geospatial Data Scientist | Remote Sensing | Google Earth Engine | Earth Observation | ML Engineer | AI Generative (GeoAI)
 
 <div align="center">
 
