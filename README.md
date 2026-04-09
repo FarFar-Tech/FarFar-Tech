@@ -17,6 +17,14 @@
 
 I am a dedicated **Remote Sensing Data Scientist** specializing in leveraging **Artificial Intelligence (AI)** to analyze **Earth Observation (EO)** data. I translate complex problems—from **land cover mapping** to **change detection**—into high-impact, automated solutions. My expertise spans the complete pipeline, from **pre-processing petabytes of satellite imagery** (GIS, Optical, SAR, LiDAR) to developing and deploying **deep learning models** for large-scale geospatial analysis.
 
+## ​📢​​ My GitHub repos that could be inspiring if you are interested in working on GIS data & GEN AI! ​📢​
+1. GeoAI Toolkit 👉🏽 [HERE](https://github.com/FarFar-Tech/GeoAI-Toolkit)
+2. Multimodal GeoAI RAG 👉🏽 [HERE](https://github.com/FarFar-Tech/Multimodal-GeoAI-RAG)
+3. Land Cover Classification using Foundation models (DOFA) 👉🏽 [HERE](https://github.com/FarFar-Tech/Land-Cover-Classification_using_Foundation_Models)
+4. Mapping Water Turbidity in a Finnish Mining Zone using Sentinel-2 👉🏽 [HERE](https://github.com/FarFar-Tech/Mapping-Water-Turbidity-using-Sentinel-2-Imagery-in-Finland)
+5. Mapping Water Surface using Foundation models (Copernicus-FM) 👉🏽 [HERE](https://github.com/FarFar-Tech/Water-Surface-Mapping-using-Satellite-Imagery)
+---
+
 ### Core Strengths
 - **EO ML Pipelines:** Full-stack development, from cloud-native data ingestion to model deployment.
 - **Deep Learning for RS:** Expertise in Computer Vision models tailored for satellite and aerial imagery analysis.
