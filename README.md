@@ -17,7 +17,7 @@
 
 > **Senior researcher at UTU in Finland** | **Senior Remote Sensing Researcher** | **AI Research Enthusiast**
 
-I am a dedicated **Remote Sensing Data Scientist** specializing in leveraging **Artificial Intelligence (AI)** to analyze **Earth Observation (EO)** data. I translate complex problems—from **land cover mapping** to **change detection**—into high-impact, automated solutions. My expertise spans the complete pipeline, from **pre-processing petabytes of satellite imagery** (GIS, Optical, SAR, LiDAR) to developing and deploying **deep learning models** for large-scale geospatial analysis.
+I am a dedicated **Data Scientist** specializing in leveraging **Artificial Intelligence (AI)** to analyze **Earth Observation (EO)** data. I translate complex problems—from **land cover mapping** to **change detection**—into high-impact, automated solutions. My expertise spans the complete pipeline, from **pre-processing petabytes of satellite imagery** (GIS, Optical, SAR, LiDAR) to developing and deploying **deep learning models** for large-scale geospatial analysis.
 
 ## ​📢​​ My GitHub repos that could be inspiring if you are interested in working on GIS data & GEN AI! ​📢​
 1. GeoAI Toolkit 👉🏽 [HERE](https://github.com/FarFar-Tech/GeoAI-Toolkit)
