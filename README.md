@@ -13,6 +13,9 @@
 
 ## 🧔🏻 About Me
 
+<img width="1266" height="720" alt="Gemini_Generated_Image_bl0kkabl0kkabl0k 1" src="https://github.com/user-attachments/assets/f3ad64c7-1102-486c-b483-e64f0b089b63" />
+
+
 > **Senior researcher at UTU in Finland** | **Senior Remote Sensing Researcher** | **AI Research Enthusiast**
 
 I am a dedicated **Remote Sensing Data Scientist** specializing in leveraging **Artificial Intelligence (AI)** to analyze **Earth Observation (EO)** data. I translate complex problems—from **land cover mapping** to **change detection**—into high-impact, automated solutions. My expertise spans the complete pipeline, from **pre-processing petabytes of satellite imagery** (GIS, Optical, SAR, LiDAR) to developing and deploying **deep learning models** for large-scale geospatial analysis.
