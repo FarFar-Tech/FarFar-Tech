@@ -13,8 +13,7 @@
 
 ## 🧔🏻 About Me
 
-<img width="1266" height="720" alt="Gemini_Generated_Image_bl0kkabl0kkabl0k 1" src="https://github.com/user-attachments/assets/f3ad64c7-1102-486c-b483-e64f0b089b63" />
-
+<img width="900" height="500" alt="Image_bl0kkabl0kkabl0k 1" src="https://github.com/user-attachments/assets/f3ad64c7-1102-486c-b483-e64f0b089b63" />
 
 > **Senior researcher at UTU in Finland** | **Senior Remote Sensing Researcher** | **AI Research Enthusiast**
 
