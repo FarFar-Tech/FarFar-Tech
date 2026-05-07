@@ -19,7 +19,7 @@
 
 I am a dedicated **Data Scientist** specializing in leveraging **Artificial Intelligence (AI)** to analyze **Earth Observation (EO)** data. I translate complex problems—from **land cover mapping** to **change detection**—into high-impact, automated solutions. My expertise spans the complete pipeline, from **pre-processing petabytes of satellite imagery** (GIS, Optical, SAR, LiDAR) to developing and deploying robust **deep learning models** for large-scale geospatial analysis.
 
-## ​📢​​ My GitHub repos that could be inspiring if you are interested in working on GIS data & GEN AI! ​📢​
+## ​📢​​ My GitHub repos that could be inspiring if you are interested in working on ML & GEN AI for GIS data! ​📢​
 1. GeoAI Toolkit 👉🏽 [HERE](https://github.com/FarFar-Tech/GeoAI-Toolkit)
 2. Multimodal GeoAI RAG 👉🏽 [HERE](https://github.com/FarFar-Tech/Multimodal-GeoAI-RAG)
 3. Land Cover Classification using Foundation models (DOFA) 👉🏽 [HERE](https://github.com/FarFar-Tech/Land-Cover-Classification_using_Foundation_Models)
